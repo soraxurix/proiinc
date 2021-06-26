@@ -390,19 +390,6 @@
                 <div class="container">
 
                     <div class="row">
-                        <div class="col-md-3 wow fadeIn" data-wow-delay="0">
-                            <div class="de_count">
-                                <h3 class="timer" data-to="10350" data-speed="2500">0</h3>
-                                <span>Clientes satisfechos</span>
-                            </div>
-                        </div>
-
-                        <div class="col-md-3 wow fadeIn" data-wow-delay=".25s">
-                            <div class="de_count">
-                                <h3 class="timer" data-to="105" data-speed="2500">0</h3>
-                                <span>Proyectos realizados</span>
-                            </div>
-                        </div>
 
                         <div class="col-md-3 wow fadeIn" data-wow-delay=".25s">
                             <div class="de_count">
@@ -411,10 +398,26 @@
                             </div>
                         </div>
 
+                        <div class="col-md-3 wow fadeIn" data-wow-delay="0">
+                            <div class="de_count">
+                                <h3 class="timer" data-to="6" data-speed="1000">0</h3>
+                                <span>Industrias de especialización</span>
+                            </div>
+                        </div>
+
                         <div class="col-md-3 wow fadeIn" data-wow-delay=".25s">
                             <div class="de_count">
-                                <h3 class="timer" data-to="105" data-speed="2500">0</h3>
-                                <span>Proyectos realizados</span>
+                                
+                                <h3 class="timer" data-to="25" data-speed="1000">0 +</h3>
+                                <span>Marcas asociadas</span>
+                            </div>
+                        </div>
+
+
+                        <div class="col-md-3 wow fadeIn" data-wow-delay=".25s">
+                            <div class="de_count">
+                                <h3 class="timer" data-to="60000" data-speed="2500">0 +</h3>
+                                <span>Productos entregados</span>
                             </div>
                         </div>
                     </div>
@@ -484,22 +487,17 @@
                             <div class="wm-1"></div>
                             <i class="icon_mobile id-color size40 mb20"></i>
                             <h6 class="id-color">Llámanos</h6>
-                            <h4>449 123 4560</h4>
+                            <h4>4491075551</h4>
                         </div>
 
-                        <div class="col-md-4">
-                            <div class="wm-1"></div>
-                            <i class="icon_house_alt id-color size40 mb20"></i>
-                            <h6 class="id-color">Dirección</h6>
-                            <h4>Calle Colonia #número, Ciudad, País</h4>
-                        </div>
+                        
 
                         <div class="col-md-4">
 
                             <div class="wm-1"></div>
                             <i class="icon_mail_alt id-color size40 mb20"></i>
                             <h6 class="id-color">Nuestro correo</h6>
-                            <h4>contacto@prueba.com</h4>
+                            <h4>contacto@proiinc.com</h4>
                         </div>
                     </div>
                 </div>
@@ -507,20 +505,7 @@
         </div>
     </section>
 
-    <!-- section begin -->
-    <section id="section-map" class="map-container no-top no-bottom" aria-label="map-container">
-        <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118472.60376267841!2d-102.36133989654402!3d21.885719942414248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec143ae4d9fb%3A0x4016978679c5220!2sAguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1621393263323!5m2!1ses-419!2smx"
-            frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" width="400"
-            height="250" style="border:0;" allowfullscreen="" loading="lazy">
-        </iframe>
-    </section>
-    <!-- section close -->
-
-
-    </div>
-    <!-- content close -->
-
+    
     <!-- footer begin -->
     <footer>
         <div class="container text-center text-light">
