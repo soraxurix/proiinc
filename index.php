@@ -473,8 +473,8 @@
                                 <div id='submit'>
                                     <input type='submit' id='send_message' value='Enviar' class="btn btn-custom">
                                 </div>
-                                <div id='mail_success' class='success'>Your message has been sent successfully.</div>
-                                <div id='mail_fail' class='error'>Sorry, error occured this time sending your message.
+                                <div id='mail_success' class='success'>Tu mensaje fue enviado satisfactoriamente.</div>
+                                <div id='mail_fail' class='error'>Lo sentimos, error al enviar tu mensaje.
                                 </div>
                             </div>
                         </form>
@@ -490,7 +490,6 @@
                             <h4>4491075551</h4>
                         </div>
 
-                        
 
                         <div class="col-md-4">
 
