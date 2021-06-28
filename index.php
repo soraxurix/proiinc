@@ -40,8 +40,10 @@
                         <!-- logo begin -->
                         <div id="logo">
                             <a href="#wrapper">
-                                <!-- <img class="logo " src="images/logo/logoProiinc.png" alt=""> -->
-                                <img class="logo-2" src="images/logo/PROIINC.png" alt="" width="200px" height="65dpx">
+                                <img id="Lmovil" class="logo-2" src="images/logo/PROIINCMovil.png" alt="" width="200px"
+                                    height="65dpx">
+                                <img id="Ldesk" class="logo-2" src="images/logo/PROIINC.png" alt="" width="200px"
+                                    height="65dpx">
                             </a>
                         </div>
                         <!-- logo close -->
@@ -83,9 +85,9 @@
                             <div class="spacer-double"></div>
                             <div class="spacer-double"></div>
 
-                            <div class="col-md-6">
+                            <div id="TDesk" class="col-md-6">
                                 <div class="spacer-double"></div>
-                                <div class="spacer-single"></div>
+                                
 
                                 <h5 class="mb20">Proiinc</h5>
                                 <div class="h1_big">
@@ -109,9 +111,21 @@
                                 <a href="#section-services-no-bg" class="btn btn-custom color-2">Nuestros servicios</a>
                             </div>
 
-                            <!-- <div class="col-md-6">
-                                <img src="images/misc/pic-profile-2.png" class="img-responsive" alt="">
-                            </div>  -->
+                            <!--Seccion del texto en versión movil-->
+                            <div id="TMovil" class="col-md-6">
+                                
+                                <h5 class="h1_big">Proiinc</h5>
+                                
+                                <div class="spacer-half"></div>
+                                <p class="lead">
+                                    Somos la mejor empresa proveedora de productos industriales
+                                    con el mejor servicio, brindando los mejores materiales de calidad.
+                                </p>
+                                <div class="spacer-half"></div>
+                                <a href="#section-services-no-bg" class="btn btn-custom color-2">Nuestros servicios</a>
+                            </div>
+
+                            
                         </div>
                     </div>
                 </div>
@@ -407,7 +421,7 @@
 
                         <div class="col-md-3 wow fadeIn" data-wow-delay=".25s">
                             <div class="de_count">
-                                
+
                                 <h3 class="timer" data-to="25" data-speed="1000">0 +</h3>
                                 <span>Marcas asociadas</span>
                             </div>
@@ -504,7 +518,7 @@
         </div>
     </section>
 
-    
+
     <!-- footer begin -->
     <footer>
         <div class="container text-center text-light">
@@ -529,7 +543,7 @@
     </footer>
     <!-- footer close -->
 
-    
+
 
     <div id="messenger" style="text-align:center">
         <a href="#"><i class="fab fa-facebook-messenger" style="font-size:20px; color:white"></i></a>
