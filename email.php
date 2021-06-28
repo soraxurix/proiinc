@@ -1,6 +1,6 @@
 <?php
 $subject = 'You Got Message'; // Subject of your email
-$to = 'eduardo.macias@proiinc.com';  //Recipient's E-mail
+$to = 'lalo@proiinc.com';  //Recipient's E-mail
 $emailTo = $_REQUEST['email'];
 
 $name = $_REQUEST['name'];
@@ -19,6 +19,11 @@ $message .= 'Name : ' . $name . "\n";
 $message .= 'Email : ' . $email . "\n";
 $message .= 'Phone : ' . $phone . "\n";
 $message .= 'Message : ' . $msg;
+
+echo $email;
+echo $name;
+echo $phone;
+echo $msg;
 
 if (@mail($to, $subject, $message, $email_from))
 {
