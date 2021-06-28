@@ -78,6 +78,12 @@
 
 
 /* ================================================== */
+#Lmovil{
+	display: none;
+}
+#TMovil{
+	display: none;
+}
 #imgS{
 	width: 150px;
 	height: 150px;
@@ -7117,6 +7123,12 @@ a, img {
 	}
 }
 @media only screen and (max-width: 992px) {
+	#Lmovil{
+		display: inline;
+	}
+	#Ldesk{
+		display: none;
+	}
 	.text-center-sm {
 		text-align: center;
 	}
@@ -7690,7 +7702,15 @@ a, img {
 		max-width: 200px;
 		height: auto;
 	}
+	#TDesk{
+		display: none;
+	}
+	#TMovil{
+		display: inline;
+	}
 }
+
+
 
 /* -------------------------------------------------- 
 	design for 320px
@@ -7720,11 +7740,20 @@ a, img {
 		margin: 0;
 		padding: 0;
 	}
+	#Lmovil{
+		display: inline;
+	}
+	#Ldesk{
+		display: none;
+	}
+	#TDesk{
+		display: none;
+	}
+	#TMovil{
+		display: inline;
+	}
 }
 
 /* Agregado por mi */
-.logoTam{
-	width: 171px ;
-	height: 32px ;
-}
+
 
