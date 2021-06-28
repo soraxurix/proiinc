@@ -40,7 +40,7 @@
                         <!-- logo begin -->
                         <div id="logo">
                             <a href="#wrapper">
-                                <img id="Lmovil" class="logo-2" src="images/logo/PROIINCMovil.png" alt="" width="200px"
+                                <img id="Lmovil" src="images/logo/PROIINCMovil.png" alt="" width="200px"
                                     height="65dpx">
                                 <img id="Ldesk" class="logo-2" src="images/logo/PROIINC.png" alt="" width="200px"
                                     height="65dpx">
@@ -87,9 +87,9 @@
 
                             <div id="TDesk" class="col-md-6">
                                 <div class="spacer-double"></div>
-                                
 
-                                <h5 class="mb20">Proiinc</h5>
+
+                                
                                 <div class="h1_big">
                                     Somos
                                     <div class="typed-strings">
@@ -113,9 +113,9 @@
 
                             <!--Seccion del texto en versión movil-->
                             <div id="TMovil" class="col-md-6">
-                                
+
                                 <h5 class="h1_big">Proiinc</h5>
-                                
+
                                 <div class="spacer-half"></div>
                                 <p class="lead">
                                     Somos la mejor empresa proveedora de productos industriales
@@ -125,7 +125,7 @@
                                 <a href="#section-services-no-bg" class="btn btn-custom color-2">Nuestros servicios</a>
                             </div>
 
-                            
+
                         </div>
                     </div>
                 </div>
@@ -382,8 +382,12 @@
 
                         <div class="col-md-12 text-center mt30">
 
-                            <div>
+                            <div id="MarcasDesk">
                                 <img src="/images/background/marcas.png" alt="">
+                            </div>
+
+                            <div id="MarcasMovil">
+                                <img src="/images/background/marcas2.png" alt="">
                             </div>
 
 
@@ -497,7 +501,7 @@
                     <div class="spacer-double"></div>
 
                     <div class="row text-center wow fadeInUp">
-                        <div class="col-md-4">
+                        <div class="col-md-6">
                             <div class="wm-1"></div>
                             <i class="icon_mobile id-color size40 mb20"></i>
                             <h6 class="id-color">Llámanos</h6>
@@ -505,7 +509,7 @@
                         </div>
 
 
-                        <div class="col-md-4">
+                        <div class="col-md-6">
 
                             <div class="wm-1"></div>
                             <i class="icon_mail_alt id-color size40 mb20"></i>

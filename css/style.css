@@ -88,6 +88,9 @@
 	width: 150px;
 	height: 150px;
 }
+#MarcasMovil{
+	display: none;
+}
 /*estilos para botones emergentes*/
 #whatsapp {
 	color:#fff;
@@ -7708,6 +7711,12 @@ a, img {
 	#TMovil{
 		display: inline;
 	}
+	#MarcasDesk{
+		display: none;
+	}
+	#MarcasMovil{
+		display: inline;
+	}
 }
 
 
@@ -7752,6 +7761,13 @@ a, img {
 	#TMovil{
 		display: inline;
 	}
+	#MarcasDesk{
+		display: none;
+	}
+	#MarcasMovil{
+		display: inline;
+	}
+	
 }
 
 /* Agregado por mi */
