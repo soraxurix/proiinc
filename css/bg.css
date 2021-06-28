@@ -23,7 +23,7 @@
 	background-attachment:scroll;
 	}
 }
-@media only screen and (max-width: 430px) {
+@media only screen and (max-width: 480px) {
 	#subheader{
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -32,8 +32,7 @@
 	background-attachment:scroll;
 	}
 	#section-hero {
-		background:url(../images/background/bannerProMovil.png) 
-		fixed;
+		background:url(../images/background/bannerProMovil2.png)
 	}
 	
 }
